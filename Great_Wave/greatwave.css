@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-    background: url(xbox-assets/base-white.svg);
+    background: url(https://raw.githubusercontent.com/VergilAndCo/vergilandco.github.io/main/Great_Wave/greatwavebase.png);
 }
 
 .xbox.disconnected {
-    background: url(xbox-assets/disconnected.svg);
+    background: url(https://raw.githubusercontent.com/VergilAndCo/vergilandco.github.io/main/Great_Wave/greatwavebase.png);
 }
 
 .xbox.disconnected div {
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(greatwavetrigger.svg);
+    background: url(https://raw.githubusercontent.com/VergilAndCo/vergilandco.github.io/main/Great_Wave/greatwavetrigger.png);
     opacity: 0;
 }
 
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(greatwavestick.svg);
+    background: url(https://raw.githubusercontent.com/VergilAndCo/vergilandco.github.io/main/Great_Wave/greatwavesticks.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(greatwavedpad.svg);
+    background: url(https://raw.githubusercontent.com/VergilAndCo/vergilandco.github.io/main/Great_Wave/greatwavedpad.png);
     position: absolute;
     opacity: 0;
 }
