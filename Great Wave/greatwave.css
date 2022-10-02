@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://github.com/VergilAndCo/vergilandco.io/blob/main/Great%20Wave/greatwavebase-cropped.png);
+    background: url(https://raw.githubusercontent.com/VergilAndCo/vergilandco.io/main/Great%20Wave/greatwavebase-cropped.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://github.com/VergilAndCo/vergilandco.io/blob/main/Great%20Wave/greatwaveabxy.png);
+    background: url(https://raw.githubusercontent.com/VergilAndCo/vergilandco.io/main/Great%20Wave/greatwaveabxy.png);
     width: 48px;
     height: 48px;
 }
